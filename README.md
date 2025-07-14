@@ -9,12 +9,12 @@ I am interested in statistics and machine learning.
 ## Languages
 
 ### data analytics
-<img src = "https://www.r-project.org/logo/Rlogo.png" width="6%" height="6%">(Main)  
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" width="5%" height="5%">(sub)
+<img src = "https://www.r-project.org/logo/Rlogo.png" width="6%" >(Main)  
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" width="5%" >(sub)
 
 ### learning
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="5%" height="5%">  
-<img src = "https://prev.rust-lang.org/logos/rust-logo-512x512.png" width="6%" height="6%">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="5%" >  
+<img src = "https://prev.rust-lang.org/logos/rust-logo-512x512.png" width="6%" >
 
 ## stats
 <details>
